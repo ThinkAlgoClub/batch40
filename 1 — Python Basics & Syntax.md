@@ -1,4 +1,4 @@
-# 1 — Python Basics & Syntax Cheat Sheet
+# 1 — Python Basics & Syntax
 
 ---
 
