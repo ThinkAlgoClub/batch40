@@ -1,0 +1,17 @@
+COURSES
+Python
+Power BI
+Excel
+Time Series Analysis
+Machine Learning
+Deep Learning
+Gen AI
+Agentic AICOURSES
+Python
+Power BI
+Excel
+Time Series Analysis
+Machine Learning
+Deep Learning
+Gen AI
+Agentic AI

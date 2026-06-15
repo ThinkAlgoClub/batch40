@@ -1,11 +1,13 @@
-'''This module contains functions for temperature conversion.
-As of now there are only two functions to convert between celsius and fahrenheit.
-However, we will add more functions.'''
+'''This is a module on tempeature related functions.
+Currently we have coded two functions for temperature conversion.
+Later we will add other functions and related components'''
 
 def to_celsius(fahrenheit):
-    'This function converts fahrenheit to celsius'
-    return (fahrenheit - 32) * 5 / 9
+    'this function converts Fahrenheit to Celsius'
+    celsius = (fahrenheit - 32) * 5/9
+    return celsius
 
 def to_fahrenheit(celsius):
-    'This function converts celsius to fahrenheit'
-    return celsius * 9/5 + 32
+    "This function converts Celsius to Fahrenheit"
+    fahrenheit = celsius * 9/5 + 32
+    return fahrenheit
